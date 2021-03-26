@@ -1,1 +1,1 @@
-This is a sample using git
+This is a sample using github
